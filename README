@@ -1,1 +1,3 @@
 This is a port of the popular pesaPi API into Java.
+
+It is being implemented in Java Servlets, Hibernate ORM and MySQL database
