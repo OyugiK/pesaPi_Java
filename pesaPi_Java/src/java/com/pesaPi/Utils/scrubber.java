@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package com.pesaPi.Utils;
 
 /**
@@ -11,43 +6,28 @@ package com.pesaPi.Utils;
  */
 public class scrubber {
 
+    String [] VERSION = {"1.0"};
 
 
-
-
-
-
-
-
-
-
-
-
-    static public void numberInput () {
+    static public void numberInput (String input) {
+        /*
+         * I dont understand this will come back to it later
+         */
 
 
     }
 
-    static public void dateInput (){
+    static public void dateInput (String input){
+        /*
+         * I dont understand this will come to it later
+         */
 
     }
 
-    private static class scrubRows {
-        public scrubRows () {
-              String temp = ("VALID" => false,
-                            "TYPE" => null,
-                            "TRANSFERDIRECTION" => null,
-                            "RECIEPT" => null,
-                            "TIME" => null,
-                            "PHONENUMBER" => null,
-                            "NAME" => null,
-                            "ACCOUNT" => null,
-                            "STATUS" => null,
-                            "AMOUNT" => null,
-                            "POST_BALANCE" => null,
-                            "NOTE" => null)
-        }
-    }
+    static public void scrubRows (String data){
+        /*
+         * I dont understand this will come to it later
+         */
 
+    }
 }
-gtfr52
